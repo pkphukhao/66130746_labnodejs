@@ -44,7 +44,7 @@ router.post("/user/login", function (req, res) {
   const { username, password } = req.body;
   const id = 1; //รหัส User 1
   // Validate username and password (example: check against database)
-  if (username === "66130746" && password === "ex12345") {
+  if (username === "66130746" && password === "12345") {
     // Authentication successful
     res
       .status(200)
