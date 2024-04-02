@@ -13,7 +13,7 @@ const options = {
     info: {
       title: "66130746 Sayumphu Sathirapattanakul API",
       version: "1.0.0",
-      description: "WE DPU Sayumphu Sathirapattanakul API",
+      description: "WE DPU 66130746 Sayumphu Sathirapattanakul API",
     },
   },
   apis: ["./routes/*.js"],
